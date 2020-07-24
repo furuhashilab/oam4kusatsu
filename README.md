@@ -3,4 +3,7 @@
 
 
 ### slack
+
+#hackathon202007openaerialmap
+
 https://app.slack.com/client/T0AR23BM3/C018582BTUY/details/?cdn_fallback=2
