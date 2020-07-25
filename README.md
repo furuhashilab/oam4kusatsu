@@ -7,8 +7,10 @@
 
 ## 仕様
 * 撮影年月日は 2020/01/01 10:00-11:00JST で統一
-* 
+* XYZタイル作成は Zoomレベル 12-21 
 * 検索エリア https://map.openaerialmap.org/#/136.40625,35.45251649467912,5/square/1330020?date=year&_k=r42vls
+
+<img  src="https://github.com/furuhashilab/oam4kusatsu/blob/master/data/%E4%BB%AE%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E5%9B%B3%E9%83%AD%E5%89%B2%E5%9B%B32.jpg?raw=true" width="300">
 
 
 ## 作業手順
@@ -24,8 +26,12 @@
 * 生データ、GeoTIFF、座標参照系 EPSG:4326 ファイル名命名規則は DTxxxxx_epsg4326geotiff.tif (xxxxxは図幅番号)
 * 生成したGeoTIFFファイルを [指定したGドライブ](https://drive.google.com/drive/folders/1cp1ty4WZrOo3iXu1js5NwNb-7e_Vx1xN?usp=sharing) に格納
 
+### XYZタイルの作成
+* QGIS 3.14 の "プロセシング" メニューから "ツールボックス" を選択
+* ツールボックス内の "ラスタ" → "XYZタイルの生成（ディレクトリ形式）" を選択
+* 
 
-<img  src="https://github.com/furuhashilab/oam4kusatsu/blob/master/data/%E4%BB%AE%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E5%9B%B3%E9%83%AD%E5%89%B2%E5%9B%B32.jpg?raw=true" width="300">
+
 
 
 ## Members
