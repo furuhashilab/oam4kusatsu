@@ -29,13 +29,17 @@
 
 
 ### 3.GeoTIFFデータのOAMへのアップロード
-* ログインは各自の Googleアカウント でログインする。
+* ログインは各自の Googleアカウントでログインする。
 * Title: kusatsu20200101opendataDTxxxxx (xxxxxには図幅番号が入る)
 * Platform: Aircraft
 * Sensor: Optical
 * Date start: Jan 1, 2020 10:00 AM
 * Date end: Jan 1, 2020 11:00 AM
-* 
+* Imagery location: 2.で作成したGeoTIFFファイルを選択
+* Provider: Yoshito Yagi/Code for Kusatsu/CrisisMappers Japan
+* Tags: Kusatsu OpenData-thon 2020, DRONEBIRD
+* Contact: Other, "Taichi Furuhashi" E-mail: "taichi@gsc.aoyama.ac.jp"
+* License: CC BY 4.0
 
 
 ### 4.XYZタイルの作成
