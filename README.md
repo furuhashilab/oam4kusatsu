@@ -15,11 +15,11 @@
 
 
 ## 作業手順
-### データのダウンロード
+### 1.データのダウンロード
 * [元データ置き場 on Googleドライブ](KusatsuCity4OpenData) ※ Slackチャンネルでアクセス権限付与手続きが必要
 * 必要なファイルは TIFFファイル(.tif)とワールドファイル(.twf)がワンセット
 
-### GeoTIFFへのファイル変換処理
+### 2.GeoTIFFへのファイル変換処理
 * QGIS 3.14 をインストール
 * TIFFファイルとワールドファイルを同一フォルダ内に配置して、TIFFファイルをQGISにドラッグ&ドロップ
 * 座標参照系 EPSG:6674 に設定
@@ -28,13 +28,17 @@
 * 生成したGeoTIFFファイルを [指定したGドライブ](https://drive.google.com/drive/folders/1cp1ty4WZrOo3iXu1js5NwNb-7e_Vx1xN?usp=sharing) に格納
 
 
-### GeoTIFFデータのOAMへのアップロード
+### 3.GeoTIFFデータのOAMへのアップロード
 * ログインは各自の Googleアカウント でログインする。
-* ファイル名kusatsu20200101opendataDTxxxxx (xxxxxには図幅番号が入る)
+* Title: kusatsu20200101opendataDTxxxxx (xxxxxには図幅番号が入る)
+* Platform: Aircraft
+* Sensor: Optical
+* Date start: Jan 1, 2020 10:00 AM
+* Date end: Jan 1, 2020 11:00 AM
 * 
 
 
-### XYZタイルの作成
+### 4.XYZタイルの作成
 * QGIS 3.14 の "プロセシング" メニューから "ツールボックス" を選択
 * ツールボックス内の "ラスタ" → "XYZタイルの生成（ディレクトリ形式）" を選択
 * Extent は "レイヤの領域を使う" を選択し、TIFFファイルレイヤを選択。
@@ -45,7 +49,7 @@
 * Quality は 90
 * 出力データの保存先はログに記載される。かなりわかりにくい場所にある。 Macだと例えば /private/var/folders/dg/w9dz_yfx17lfwzjygzv_03k40000gn/T/processing_8f4aa41a893848f286b0f35460c7369d/e35e21193cf441728b5f333f2a965485/OUTPUT_DIRECTORY といった深い階層にデータが保存される。Macの場合 Finderのメニューから "移動" → "フォルダへ移動" を選択し、OUTPUT_DIRECTORY フォルダへのパスを貼り付けて移動する。
 
-## XYZタイルのGドライブへのアップロード
+## 5.XYZタイルのGドライブへのアップロード
 * [指定のフォルダ](https://drive.google.com/drive/u/0/folders/1rQEcL_wGmj8ssol6LQFgMTX11NsNylZZ) 内に、図幅名のフォルダを作成して、その中にZoomレベルごとのフォルダをアップロードする。
 
 
