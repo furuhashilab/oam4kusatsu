@@ -16,7 +16,13 @@
 * [元データ置き場 on Googleドライブ](KusatsuCity4OpenData) ※ Slackチャンネルでアクセス権限付与手続きが必要
 * 必要なファイルは TIFFファイル(.tif)とワールドファイル(.twf)がワンセット
 
-### ファイル変換処理
+### GeoTIFFへのファイル変換処理
+* QGIS 3.14 をインストール
+* TIFFファイルとワールドファイルを同一フォルダ内に配置して、TIFFファイルをQGISにドラッグ&ドロップ
+* 座標参照系 EPSG:6674 に設定
+* TIFF画像レイヤ名右クリック → エクスポート → 名前をつけて保存
+* 生データ、GeoTIFF、座標参照系 EPSG:4326 ファイル名命名規則は DTxxxxx_epsg4326geotiff.tif (xxxxxは図幅番号)
+* 生成したGeoTIFFファイルを [指定したGドライブ](https://drive.google.com/drive/folders/1cp1ty4WZrOo3iXu1js5NwNb-7e_Vx1xN?usp=sharing) に格納
 
 
 <img  src="https://github.com/furuhashilab/oam4kusatsu/blob/master/data/%E4%BB%AE%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E5%9B%B3%E9%83%AD%E5%89%B2%E5%9B%B32.jpg?raw=true" width="300">
