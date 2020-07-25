@@ -27,6 +27,13 @@
 * 生データ、GeoTIFF、座標参照系 EPSG:4326 ファイル名命名規則は DTxxxxx_epsg4326geotiff.tif (xxxxxは図幅番号)
 * 生成したGeoTIFFファイルを [指定したGドライブ](https://drive.google.com/drive/folders/1cp1ty4WZrOo3iXu1js5NwNb-7e_Vx1xN?usp=sharing) に格納
 
+
+### GeoTIFFデータのOAMへのアップロード
+* ログインは各自の Googleアカウント でログインする。
+* ファイル名kusatsu20200101opendataDTxxxxx (xxxxxには図幅番号が入る)
+* 
+
+
 ### XYZタイルの作成
 * QGIS 3.14 の "プロセシング" メニューから "ツールボックス" を選択
 * ツールボックス内の "ラスタ" → "XYZタイルの生成（ディレクトリ形式）" を選択
