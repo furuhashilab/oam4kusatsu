@@ -20,7 +20,7 @@
 * 必要なファイルは TIFFファイル(.tif)とワールドファイル(.twf)がワンセット
 
 ### 2.GeoTIFFへのファイル変換処理
-* QGIS 3.14 をインストール
+* [QGIS 3.14](https://www.qgis.org/ja/site/forusers/download.html) をインストール
 * TIFFファイルとワールドファイルを同一フォルダ内に配置して、TIFFファイルをQGISにドラッグ&ドロップ
 * TIFFファイルのレイヤプロパティで、座標参照系 EPSG:6674 に設定
 * TIFF画像レイヤ名右クリック → エクスポート → 名前をつけて保存
