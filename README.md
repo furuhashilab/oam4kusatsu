@@ -16,7 +16,7 @@
 
 ## 作業手順
 ### 1.データのダウンロード
-* [元データ置き場 on Googleドライブ](KusatsuCity4OpenData) ※ Slackチャンネルでアクセス権限付与手続きが必要
+* [元データ置き場 on Googleドライブ](https://drive.google.com/drive/u/0/folders/0ADXv-Sg6KnZ0Uk9PVA) ※ Slackチャンネルでアクセス権限付与手続きが必要
 * 必要なファイルは TIFFファイル(.tif)とワールドファイル(.twf)がワンセット
 
 ### 2.GeoTIFFへのファイル変換処理
