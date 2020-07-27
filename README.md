@@ -24,7 +24,7 @@
 * TIFFファイルとワールドファイルを同一フォルダ内に配置して、TIFFファイルをQGISにドラッグ&ドロップ
 * TIFFファイルのレイヤプロパティで、座標参照系 EPSG:6674 に設定
 * TIFF画像レイヤ名右クリック → エクスポート → 名前をつけて保存
-* 生データ、GeoTIFF、座標参照系 EPSG:4326 ファイル名命名規則は DTxxxxx_epsg4326geotiff.tif (xxxxxは図幅番号)
+* **出力モード:画像**、GeoTIFF、座標参照系 EPSG:4326 ファイル名命名規則は DTxxxxx_epsg4326geotiff.tif (xxxxxは図幅番号)
 * 生成したGeoTIFFファイルを [指定したGドライブ](https://drive.google.com/drive/folders/1cp1ty4WZrOo3iXu1js5NwNb-7e_Vx1xN?usp=sharing) に格納
 
 
