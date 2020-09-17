@@ -4,6 +4,8 @@
 ## 成果物
 * OpenAerialMap への航空写真データ投入
 
+## 全体の索引図可視化・XYZtileのURLリスト作成
+進捗状況URL 一覧　:　https://docs.google.com/spreadsheets/d/1f9-mlXkaxld9TZroGTvkc4dBFSnolbSo1ffRgwdGz9k/edit#gid=0
 
 ## 仕様
 * 撮影年月日は 2020/01/01 10:00-11:00JST で統一
