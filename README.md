@@ -3,9 +3,9 @@
 
 ## 成果物
 * OpenAerialMap への航空写真データ投入
-
-## 全体の索引図可視化・XYZtileのURLリスト作成
+*全体の索引図可視化(XYZtileのURLリスト作成)
 進捗状況URL 一覧　:　https://docs.google.com/spreadsheets/d/1f9-mlXkaxld9TZroGTvkc4dBFSnolbSo1ffRgwdGz9k/edit#gid=0
+<img  src="https://github.com/furuhashilab/oam4kusatsu/blob/master/data/%E4%BB%AE%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E5%9B%B3%E9%83%AD%E5%89%B2%E5%9B%B32.jpg?raw=true" width="300">
 
 ## 仕様
 * 撮影年月日は 2020/01/01 10:00-11:00JST で統一
