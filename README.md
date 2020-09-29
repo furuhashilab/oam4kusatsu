@@ -1,5 +1,5 @@
 # oam4kusatsu
-草津市航空写真データの OpenAerialMap 投入
+草津市航空写真データの OpenAerialMap 投入　ガチャムクOAM解説動画
 
 ## 成果物
 * OpenAerialMap への航空写真データ投入
