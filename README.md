@@ -6,7 +6,7 @@
 * 全体の索引図可視化(XYZtileのURLリスト作成)
 進捗状況URL 一覧　:　https://docs.google.com/spreadsheets/d/1f9-mlXkaxld9TZroGTvkc4dBFSnolbSo1ffRgwdGz9k/edit#gid=0
 <img  src="https://github.com/furuhashilab/oam4kusatsu/blob/master/data/%E4%BB%AE%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E5%9B%B3%E9%83%AD%E5%89%B2%E5%9B%B32.jpg?raw=true" width="300">
-* ガチャピンOAM解説動画
+* ガチャピン OAM解説動画
 * 発表スライド
 * Medium(グラレコ付き)
 
