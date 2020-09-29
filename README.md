@@ -63,7 +63,7 @@
 * [管理用データリストスプレッドシート](https://docs.google.com/spreadsheets/d/1f9-mlXkaxld9TZroGTvkc4dBFSnolbSo1ffRgwdGz9k/edit#gid=0)に、それぞれ担当者名と進捗報告を行う。
 
 ## Members
-@22hero1072, @reikomor, @shuntacarp, @naaao naaao, @MatsuyamaRan, @yunapanpan12, @Momotaroooo, @naoki4221, @kokisano, @cancancanda and @mapconcierge
+@22hero1072, @reikomor, @shuntacarp, @naaao naaao, @MatsuyamaRan, @yunapanpan12, @Momotaroooo, @naoki2123, @kokisano, @cancancanda and @mapconcierge
 
 
 ## slack
