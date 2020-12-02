@@ -3,9 +3,9 @@
 
 ## Open Aerial Map 活用方法について
 
-https://drive.google.com/file/d/133bcqOwfRrqUvRwFu6wwWi2gyGYZnjfo/view?usp=sharing
+* https://drive.google.com/file/d/133bcqOwfRrqUvRwFu6wwWi2gyGYZnjfo/view?usp=sharing
 
-https://youtu.be/Q5NfA3FkqQc
+* https://youtu.be/Q5NfA3FkqQc 
 
 ## 航空写真でOpen Street Map マッピング方法
 
