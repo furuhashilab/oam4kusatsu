@@ -9,24 +9,25 @@
 
 ## 草津市の航空写真を用いた OpenStreetMap マッピング方法
 
-① [OpenAerialMap](https://openaerialmap.org/) を開きます。(ログイン不要)
+1. [OpenAerialMap](https://openaerialmap.org/) を開きます。(ログイン不要)
 
-② Start Explore ボタンを押し世界地図を表示させます。
+2. Start Explore ボタンを押し世界地図を表示させます。
+
 <img width="234" alt="スクリーンショット 2020-12-02 15 14 53" src="https://user-images.githubusercontent.com/416977/100838268-7dd88980-34b5-11eb-8ca7-3f9e7b50d372.png">
 
-③ 世界地図が表示されたら、草津市付近まで地図を移動・拡大し、マッピングしたいエリアの青いメッシュをクリックします。
+3. 世界地図が表示されたら、草津市付近まで地図を移動・拡大し、マッピングしたいエリアの青いメッシュをクリックします。
 
-④ 左側に青いメッシュ内の航空写真一覧が表示されます。以下の[仮航空写真撮影図郭割図](https://github.com/furuhashilab/oam4kusatsu/blob/master/data/%E4%BB%AE%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E5%9B%B3%E9%83%AD%E5%89%B2%E5%9B%B32.jpg)を参考に、マッピングしたいエリアの番号(DT…)の航空写真を選択します。
+4. 左側に青いメッシュ内の航空写真一覧が表示されます。以下の[仮航空写真撮影図郭割図](https://github.com/furuhashilab/oam4kusatsu/blob/master/data/%E4%BB%AE%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%E6%92%AE%E5%BD%B1%E5%9B%B3%E9%83%AD%E5%89%B2%E5%9B%B32.jpg)を参考に、マッピングしたいエリアの番号(DT…)の航空写真を選択します。
 
-⑤ Open in 欄の、iD editor をクリックします。
+5. Open in 欄の、iD editor をクリックします。
 
-⑥ 自動的に OpenStreetMap のiDエディタが起動します。（要ログイン）
+6. 自動的に OpenStreetMap のiDエディタが起動します。（要ログイン）
 
-⑦ 地図にある+ズームしてクリックを押します。
+7. 地図にある+ズームしてクリックを押します。
 
-⑧ 黒地図上に選択したエリアの航空写真画像(XYZタイル)が背景に表示されます。
+8. 黒地図上に選択したエリアの航空写真画像(XYZタイル)が背景に表示されます。
 
-⑨ 衛星画像より鮮明な航空写真で、マッピングをすることができます。
+9. 衛星画像より鮮明な航空写真で、マッピングをすることができます。
 
 
 
