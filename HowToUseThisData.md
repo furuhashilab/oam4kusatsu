@@ -11,7 +11,8 @@
 
 ① [OpenAerialMap](https://openaerialmap.org/) を開きます。(ログイン不要)
 
-② Start Explore ボタンを押し世界地図を表示させます。。
+② Start Explore ボタンを押し世界地図を表示させます。
+<img width="234" alt="スクリーンショット 2020-12-02 15 14 53" src="https://user-images.githubusercontent.com/416977/100838268-7dd88980-34b5-11eb-8ca7-3f9e7b50d372.png">
 
 ③ 世界地図が表示されたら、草津市付近まで地図を移動・拡大し、マッピングしたいエリアの青いメッシュをクリックします。
 
