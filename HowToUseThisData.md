@@ -7,7 +7,7 @@
 
 * https://youtu.be/Q5NfA3FkqQc 
 
-## 航空写真でOpen Street Map マッピング方法
+## 作成した航空写真(Giotiff)を使った Open Street Map マッピング方法
 
 ① Open Aerial Map を開きます。
 
