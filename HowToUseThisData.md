@@ -1,7 +1,7 @@
 # 草津市航空写真オープンデータの使用方法
 
 *Open Aerial Map 活用方法
-https://youtu.be/iADBY64HSxM
+https://youtu.be/Q5NfA3FkqQc
 
 
 
