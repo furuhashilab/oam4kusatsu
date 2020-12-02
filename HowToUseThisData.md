@@ -7,9 +7,9 @@
 
 * https://youtu.be/Q5NfA3FkqQc 
 
-## 作成した航空写真(Giotiff)を使った Open Street Map マッピング方法
+## 作成した航空写真(GeoTIFF)を使った Open Street Map マッピング方法
 
-① Open Aerial Map を開きます。
+① Open Aerial Map を開きます。(要ログイン)
 
 ② Start Explore を選択します。
 
@@ -23,7 +23,7 @@
 
 ⑦ 地図にある+ズームしてクリックを押します。
 
-⑧ 黒地図上に選択したエリアの航空写真(Giotiff画像)が表示されます。
+⑧ 黒地図上に選択したエリアの航空写真(GeoTIFF画像)が表示されます。
 
 ⑨ 衛星写真より鮮明な航空写真で、マッピングをすることができます。
 
